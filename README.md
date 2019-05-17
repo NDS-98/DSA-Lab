@@ -1,2 +1,2 @@
 # DSA-Lab
-My solutions for the Data Structures and Algorithms Lab at BITS-Pilani.
+My solutions for the lab component of the course Data Structures and Algorithms at BITS-Pilani.
